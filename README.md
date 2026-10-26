@@ -9,7 +9,7 @@ I'm Marcus — a developer passionate about solving problems and building cool t
 ## Connect with me 🌍
 
 <div>
-<a href = "mailto:marcus_viniciusreis@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="E-mail"></a>
+<a href = "mailto:mvreisg@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="E-mail"></a>
 <a href="https://www.linkedin.com/in/mvreisg" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>   
 <a href="https://www.youtube.com/@mvreisg" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" alt="YouTube"></a>
 <a href="https://www.twitch.tv/lusonerevar" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" alt="Twitch"></a>
